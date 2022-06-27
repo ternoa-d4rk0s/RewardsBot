@@ -1,0 +1,21 @@
+{
+    "name": "d4rk0s/rewards-explorer",
+    "require": {
+        "php": "^7.4",
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/console": "^v5.4.9",
+        "unreal4u/telegram-api": "^3.6",
+        "symfony/dotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "D4rk0s\\RewardsExplorer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "d4rk0s",
+            "email": "gregory@d4rk0s.net"
+        }
+    ]
+}
